@@ -1,0 +1,27 @@
+{
+  "name": "trentose2jan12-gsexamsimulation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --verbose",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gsave/trentose2jan12-GSexamSIMULATION.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gsave/trentose2jan12-GSexamSIMULATION/issues"
+  },
+  "homepage": "https://github.com/Gsave/trentose2jan12-GSexamSIMULATION#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jest": "^23.6.0",
+    "supertest": "^3.3.0"
+  },
+  "devDependencies": {}
+}
